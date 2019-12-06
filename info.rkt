@@ -1,7 +1,7 @@
 #lang info
 
 ;; Dracula color scheme for DrRacket (https://draculatheme.com)
-;; 
+;;
 
 (define deps '("base"))
 
@@ -39,7 +39,7 @@
             (drracket:syncheck:matching-identifiers            ,selection)
 
             ;; Color scheme
-            (framework:sytnax-color:scheme:comment             ,comment)
+            (framework:syntax-color:scheme:comment             ,comment)
             (framework:syntax-color:scheme:text                ,yellow)
             (framework:syntax-color:scheme:string              ,yellow)
             (framework:syntax-color:scheme:constant            ,purple)
