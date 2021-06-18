@@ -5,7 +5,7 @@
 
 (define deps '("base"))
 
-;; RGB colors found at https://github.com/dracula/dracula-theme
+;; RGB colors found at https://spec.draculatheme.com
 
 (define background #(#x28 #x2A #x36))
 (define foreground #(#xF8 #xF8 #xF2))
