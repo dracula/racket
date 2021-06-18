@@ -63,11 +63,11 @@
             (framework:syntax-color:scheme:string              ,yellow)
             (framework:syntax-color:scheme:constant            ,purple)
             (framework:syntax-color:scheme:keyword             ,pink)
-            (framework:syntax-color:scheme:hash-colon-keyword  ,green)
+            (framework:syntax-color:scheme:hash-colon-keyword  ,cyan italic)
             (framework:syntax-color:scheme:parenthesis         ,comment)
             (framework:syntax-color:scheme:error               ,red)
             (framework:syntax-color:scheme:symbol              ,foreground)
-            (framework:syntax-color:scheme:other               ,orange)
+            (framework:syntax-color:scheme:other               ,pink)
 
             ;; DrRacket colors
             (drracket:check-syntax:both-obligation-style-pref  ,orange)
